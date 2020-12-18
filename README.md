@@ -5,7 +5,7 @@ This repo contains links and slides for the Keras Tutorial for Codeprentice Work
 
 
 ## Slide Links 
-The following links are some of the sources for the tutorial. The section of the tutorial and corresponding links are listed below.
+The following breaks down pertinent links for each section of the tutorial.
 
 **Overview of DL API Landscape**
 
