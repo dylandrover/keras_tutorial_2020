@@ -9,7 +9,7 @@ The following section breaks down pertinent links for each part of the tutorial.
 
 **Overview of DL API Landscape**
 
-[Comparison of differnt DL APIs](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
+[Comparison of different DL APIs](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
 
 **The Graph and Eager Execution**
 
