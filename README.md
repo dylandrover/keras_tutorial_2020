@@ -1,7 +1,7 @@
 # Keras Tutorial 
 This repo contains links and slides of a quick tutorial focused on the Keras Deep Learning API, which was done in collaboration with the Codeprentice Workshop Series. 
 
-[Google Drive Link to the slides](https://docs.google.com/presentation/d/1gmI9rmzNerUQMDgKq79r7PXvakBFIr4l3jXrFvINg70/edit?usp=sharing)
+[Google Drive Link to the slides](https://docs.google.com/presentation/d/1gmI9rmzNerUQMDgKq79r7PXvakBFIr4l3jXrFvINg70/edit?usp=sharing)  
 [Google Drive Link to the presentation](https://drive.google.com/file/d/1C0MVMOpVTyF53Tcutu7LmlNEokkRanOF/view)
 
 
